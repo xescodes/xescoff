@@ -1,85 +1,54 @@
-```markdown
-# Portfolio de Francesc Adrià Perelló
+# 👋 ¡Hola! Soy Francesc Adrià Perelló (Xesco)
 
-¡Bienvenido al repositorio del portfolio de Francesc Adrià Perelló! Aquí encontrarás información sobre mi experiencia, educación, habilidades y proyectos destacados. Si estás interesado en colaborar o simplemente conocer más sobre mí, este README es el lugar perfecto para empezar.
-
----
-
-## Sobre mí
-
-Saludos, mi nombre es Francesc, también conocido como Xesco. Soy un apasionado de la Historia de la Cultura, con formación en Educación y Filosofía. Actualmente, me especializo en desarrollo web, combinando mi interés por la tecnología y el pensamiento crítico para crear soluciones digitales innovadoras.
+[![Imagen de perfil](https://via.placeholder.com/150)](https://github.com/xescodes)  Un apasionado de la **Historia de la Cultura** que ha encontrado su camino en el **desarrollo web**. Combino mi formación en **Educación** y **Filosofía** con la tecnología para crear soluciones digitales innovadoras. ¡Siempre aprendiendo y explorando nuevas posibilidades!
 
 ---
 
-## Experiencia
+## 🚀 Un vistazo a mi trayectoria
+
+* 💡 **Pensamiento Crítico y Desarrollo:** Mi background en humanidades me proporciona una perspectiva única para abordar los desafíos del desarrollo web.
+* 💻 **Desarrollador Fullstack:** Especializado en la creación de aplicaciones web completas y funcionales.
+* 📚 **Aprendizaje Continuo:** Siempre en busca de nuevas tecnologías y metodologías para mejorar mis habilidades.
+
+---
+
+## 💼 Experiencia Profesional
 
 ### MagmaCultura
-- **Rol:** Atención al usuario
-- **Lugar:** Biblioteca de Historia del Arte Joaquim Folch i Torres (MNAC)
-- **Periodo:** Diciembre de 2020 - Presente
+![Logo MagmaCultura](https://via.placeholder.com/80/cccccc/000000?Text=Magma) * **Rol:** Atención al usuario
+* **Lugar:** Biblioteca de Historia del Arte Joaquim Folch i Torres (MNAC)
+* **Periodo:** Diciembre de 2020 - Presente
+* **Descripción:** Interacción directa con usuarios, gestión de consultas y apoyo en la investigación.
 
 ### Freelance Software Developer
-- **Periodo:** Noviembre de 2022 - Presente
+![Icono de desarrollador](https://via.placeholder.com/80/333333/ffffff?Text=</>) * **Periodo:** Noviembre de 2022 - Presente
+* **Descripción:** Desarrollo de soluciones web a medida para diversos clientes.
 
 ---
 
-## Educación
+## 🎓 Educación
 
-- **Máster en Formación del profesorado en Filosofía**  
-  Universidad Nacional de Educación a Distancia - U.N.E.D. (2018 - 2019)
+### Máster en Formación del profesorado en Filosofía
+![Logo UNED](https://via.placeholder.com/80/eeeeee/000000?Text=UNED) * Universidad Nacional de Educación a Distancia - U.N.E.D. (2018 - 2019)
 
-- **Bootcamp Fullstack Developer**  
-  The Bridge | Digital Talent Accelerator (Marzo de 2022)
-
----
-
-## Habilidades
-
-- Investigación y desarrollo
-- Community Management
-- Desarrollo de aplicaciones con tecnologías web
+### Bootcamp Fullstack Developer
+![Logo The Bridge](https://via.placeholder.com/80/000000/ffffff?Text=TB) * The Bridge | Digital Talent Accelerator (Marzo de 2022)
+* **Habilidades Adquiridas:** Desarrollo Front-end y Back-end con tecnologías modernas.
 
 ---
 
-## Proyectos destacados
+## 🛠️ Habilidades Clave
 
-### Blog personal
-Desarrollo y mantenimiento de un blog sobre historia y cultura.
+* **Desarrollo Web:**
+    * Lenguajes: `HTML`, `CSS`, `JavaScript`, `Python`, etc. (Añade los que domines)
+    * Frameworks/Librerías: `React`, `Node.js`, `Django`, etc. (Añade los que uses)
+* **Otras Habilidades:**
+    * Investigación y desarrollo
+    * Community Management
+    * Pensamiento crítico
+    * Resolución de problemas
 
-### Sitio web para pequeña empresa
-Diseño y desarrollo de un sitio web responsive para una empresa local.
+Puedes incluso usar etiquetas o "badges" para mostrar tus habilidades de forma más visual, como las que se generan en sitios como [https://shields.io/](https://shields.io/). Por ejemplo:
 
----
-
-## Contacto
-
-¡No dudes en ponerte en contacto conmigo!
-
-- **Email:** xescodes@gmail.com  
-- **Teléfono:** +34 645192817  
-- **LinkedIn:** [www.linkedin.com/in/xesco](https://www.linkedin.com/in/xesco)  
-- **GitHub:** [github.com/xescodes](https://github.com/xescodes)
-
----
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE.md` para más detalles.
-
----
-
-⌨️ con ❤️ por Francesc Adrià Perelló
-```
-
-Citations:
-[1] https://github.com/brayandiazc/plantilla-README-sencilla
-[2] https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md
-[3] https://github.com/CondorCoders/github-readme-profile
-[4] https://github.com/othneildrew/Best-README-Template
-[5] https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a
-[6] https://github.com/brayandiazc/plantilla-README
-[7] https://gist.github.com/c2708c2a66eec29f6291bb3a4ac724b5
-[8] https://github.com/mroman42/plantillas/blob/master/README.md
-
----
-Answer from Perplexity: pplx.ai/share
+```markdown
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
